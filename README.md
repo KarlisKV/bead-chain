@@ -12,4 +12,3 @@ Runtime:
 In other words, time complexity of O(N^2)
 
 Runs on Python 3
-Will need to import the used libraries to work
